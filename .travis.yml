@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: OAuth2Client.xcodeproj
+xcode_scheme: OAuth2Client
+xcode_sdk: iphonesimulator
